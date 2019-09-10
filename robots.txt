@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queexiwah.value-from-data.com/sitemap.xml
